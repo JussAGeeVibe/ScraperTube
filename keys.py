@@ -37,7 +37,7 @@ class YouTubeStats:
 
 
 #youtube API key
-api_key = "AIzaSyBqzt6SjvNOATyDlBlhfGqhn3oW3rfXx2A"
+api_key = #refer to notepad file
 
 link_file = "video_links.csv"
 with open(link_file, "r") as f:
